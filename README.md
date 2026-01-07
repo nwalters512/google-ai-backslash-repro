@@ -1,6 +1,6 @@
 # google-ai-backslash-repro
 
-Reproduction of an issue with backslashes in keys with Gemini structured output
+Reproduction of an issue with backslashes in keys with Gemini structured output: https://github.com/googleapis/js-genai/issues/1226
 
 ## Instructions
 
